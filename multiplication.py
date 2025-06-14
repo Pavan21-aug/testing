@@ -1,4 +1,4 @@
 A = 5 ;
 B = 10 ; 
-C = A + B ;
+C = A * B ;
 print (C) ;
