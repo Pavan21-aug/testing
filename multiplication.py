@@ -1,4 +1,6 @@
+
 A = 5 ;
 B = 10 ; 
 C = A * B ;
-print (C) ;
+D = 20 + C
+print (D) ;
